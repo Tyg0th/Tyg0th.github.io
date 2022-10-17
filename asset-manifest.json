@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tyg0th.github.io/static/css/main.6b5d3339.css",
+    "main.js": "/Tyg0th.github.io/static/js/main.ee16811c.js",
+    "static/js/787.8d356647.chunk.js": "/Tyg0th.github.io/static/js/787.8d356647.chunk.js",
+    "static/media/logo.svg": "/Tyg0th.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tyg0th.github.io/index.html",
+    "main.6b5d3339.css.map": "/Tyg0th.github.io/static/css/main.6b5d3339.css.map",
+    "main.ee16811c.js.map": "/Tyg0th.github.io/static/js/main.ee16811c.js.map",
+    "787.8d356647.chunk.js.map": "/Tyg0th.github.io/static/js/787.8d356647.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b5d3339.css",
+    "static/js/main.ee16811c.js"
+  ]
+}
